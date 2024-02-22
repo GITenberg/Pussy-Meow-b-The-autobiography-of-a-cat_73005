@@ -1,0 +1,30 @@
+_repo: Pussy-Meow-b-The-autobiography-of-a-cat_73005
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Patteson, S. Louise (Susanna Louise)
+    alias: Patteson, Susanna Louise
+    birthdate: 1853
+    deathdate: 1922
+    gutenberg_agent_id: '53398'
+    url: http://www.gutenberg.org/2009/agents/53398
+description: ''
+gutenberg_issued: '2024-02-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73005'
+language: en
+pgterms:marc905: 20231211120734patteson
+pgterms:marc906: '1901'
+pgterms:marc907: US
+production_note: Susan E., David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aPhiladelphia :$bG. W. Jacobs & co, $c1901.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Pussy Meow : $b The autobiography of a cat'
+url: http://www.gutenberg.org/ebooks/73005
